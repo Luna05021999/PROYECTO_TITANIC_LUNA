@@ -1,4 +1,4 @@
-##🚢 **Prevención y Rescate: Cómo los Simulacros de Emergencia Hubieran Cambiado la Historia del Titanic**
+🚢 ## **Prevención y Rescate: Cómo los Simulacros de Emergencia Hubieran Cambiado la Historia del Titanic**
 
 Este proyecto analiza el desastre del Titanic, con el objetivo de explorar cómo los simulacros y una mejor planificación podrían haber mejorado la respuesta de evacuación y reducido la pérdida de vidas. Desde la perspectiva de Safe Seas International , empresa dedicada a la seguridad marítima y simulacros de emergencia, este análisis se centra en la importancia de la preparación y la equidad en situaciones de emergencia.
 
